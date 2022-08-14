@@ -2,6 +2,7 @@
 <h3 align="center">A passionate frontend developer from Poland</h3>
 
 - 🔭 I’m currently working on [Easybank landing page master](https://www.frontendmentor.io/challenges/easybank-landing-page-WaUhkoDN)
+- hosting https://wtyka2504.github.io/easybank-landing-page-master/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
